@@ -1,0 +1,9 @@
+.filter-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.filter-buttons button {
+  margin: 0.2em;
+}

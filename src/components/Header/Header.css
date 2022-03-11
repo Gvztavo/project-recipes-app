@@ -1,0 +1,15 @@
+.header {
+  background-color: #c4c4c4;
+  display: flex;
+}
+
+.header button {
+  background: none;
+  border: none;
+  padding: 0;
+}
+
+.page-header {
+  font-size: 30px;
+  margin: 0 auto;
+}
