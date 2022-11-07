@@ -22,7 +22,9 @@ O layout tem como foco dispositivos móveis, então todos os protótipos vão es
 
 This is a project i made as a Trybe Student, and some codes were already done, such as .eslint & .stylelint arquives, cypress stuff, serviceWorker & Public folder.
 
-#This is a Group Project, and the members include:
+---
+
+# This is a Group Project, and the members include:
 
 (GitHub links after names)
 
