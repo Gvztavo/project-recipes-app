@@ -35,5 +35,3 @@ Rafael Nery Machado https://github.com/RayNfeeral
 Bernardo Raffide https://github.com/bernardoraffide
 
 Caio Veloso https://github.com/Caio-Veloso
-
-Bernardo Raffide (me) https://github.com/bernardoraffide
