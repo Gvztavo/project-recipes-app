@@ -28,6 +28,8 @@ This is a project i made as a Trybe Student, and some codes were already done, s
 
 (GitHub links after names)
 
+Gustavo Fernando https://github.com/Gvztavo
+
 Alan Moreira de Freitas https://github.com/alanmdf
 
 Rafael Nery Machado https://github.com/RayNfeeral
