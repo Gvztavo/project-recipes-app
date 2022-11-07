@@ -1,17 +1,12 @@
 # Boas vindas ao repositório do projeto de Receitas!
 ---
 
-# Habilidades
+# Tecnologias
 
-Nesse projeto, você será capaz de:
-
-  - Utilizar _Redux_ para gerenciar estado
-  - Utilizar a biblioteca _React-Redux_
-  - Utilizar a Context API do _React_ para gerenciar estado
-  - Utilizar o _React Hook useState_
-  - Utilizar o _React Hook useContext_
-  - Utilizar o _React Hook useEffect_
-  - Criar Hooks customizados
+- React (JSX)
+- React Hooks
+- Context API for state management
+- CSS
 
 ---
 
@@ -24,3 +19,19 @@ Nela será possível ver, buscar, filtrar, favoritar e acompanhar o processo de 
 A base de dados serão 2 APIs distintas, uma para comidas e outra para bebidas.
 
 O layout tem como foco dispositivos móveis, então todos os protótipos vão estar desenvolvidos em telas menores.
+
+This is a project i made as a Trybe Student, and some codes were already done, such as .eslint & .stylelint arquives, cypress stuff, serviceWorker & Public folder.
+
+#This is a Group Project, and the members include:
+
+(GitHub links after names)
+
+Alan Moreira de Freitas https://github.com/alanmdf
+
+Rafael Nery Machado https://github.com/RayNfeeral
+
+Bernardo Raffide https://github.com/bernardoraffide
+
+Caio Veloso https://github.com/Caio-Veloso
+
+Bernardo Raffide (me) https://github.com/bernardoraffide
